@@ -5,7 +5,7 @@
 	 {
 		   $this -> view('user/index'); 
 	 }
-
+//Внёс изменения
      public function registration() 
 	 {
             $data = [];
